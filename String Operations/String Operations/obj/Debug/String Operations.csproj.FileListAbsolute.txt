@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\String Operations\String Operations\bin\Debug\String Operations.exe.config
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\String Operations\String Operations\bin\Debug\String Operations.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\String Operations\String Operations\bin\Debug\String Operations.pdb
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\String Operations\String Operations\obj\Debug\String Operations.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\String Operations\String Operations\obj\Debug\String Operations.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\String Operations\String Operations\obj\Debug\String Operations.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\String Operations\String Operations\obj\Debug\String Operations.pdb

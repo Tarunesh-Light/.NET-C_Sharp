@@ -10,6 +10,11 @@ namespace String_Operations
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Tarunesh" + "Thangaraju");
+            Console.WriteLine("Tarunesh\nThangaraju");
+            Console.WriteLine("Tarunesh\"Thangaraju");
+
+            Console.ReadLine();
         }
     }
 }
