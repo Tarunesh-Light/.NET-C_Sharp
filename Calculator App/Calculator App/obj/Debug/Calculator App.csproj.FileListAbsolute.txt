@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Calculator App\Calculator App\bin\Debug\Calculator App.exe.config
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Calculator App\Calculator App\bin\Debug\Calculator App.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Calculator App\Calculator App\bin\Debug\Calculator App.pdb
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Calculator App\Calculator App\obj\Debug\Calculator App.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Calculator App\Calculator App\obj\Debug\Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Calculator App\Calculator App\obj\Debug\Calculator App.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Calculator App\Calculator App\obj\Debug\Calculator App.pdb
