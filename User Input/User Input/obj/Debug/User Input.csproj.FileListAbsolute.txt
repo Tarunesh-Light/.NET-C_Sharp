@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\User Input\User Input\bin\Debug\User Input.exe.config
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\User Input\User Input\bin\Debug\User Input.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\User Input\User Input\bin\Debug\User Input.pdb
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\User Input\User Input\obj\Debug\User Input.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\User Input\User Input\obj\Debug\User Input.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\User Input\User Input\obj\Debug\User Input.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\User Input\User Input\obj\Debug\User Input.pdb
