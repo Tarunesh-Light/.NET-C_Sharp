@@ -10,6 +10,20 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+            Student("Light");
+            Student("Kira");
+            int num1 = power(2);
+            Console.WriteLine(num1);
+        }
+
+        static void Student(string a)
+        {
+            Console.WriteLine("Student is " + a);
+        }
+
+        static int power(int num)
+        {
+            return num*num*num;
         }
     }
 }

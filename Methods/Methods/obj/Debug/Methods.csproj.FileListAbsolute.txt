@@ -1,0 +1,7 @@
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\thang\Desktop\C#\.NET-C_Sharp\Methods\Methods\obj\Debug\Methods.pdb
